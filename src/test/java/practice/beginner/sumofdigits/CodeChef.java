@@ -1,6 +1,6 @@
 package practice.beginner.sumofdigits;
 
-public class CodeChef {
+class CodeChef {
     
      String solution(String input) {
         
